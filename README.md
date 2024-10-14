@@ -1,5 +1,7 @@
 # Phonix
 📒 Phone Book Management System using Binary Search Tree (BST)
+![preview](https://github.com/user-attachments/assets/86bed877-75e6-4f58-b5ef-10c070b98ed3)
+
 
 A simple yet efficient Phone Book Management System built with Python, utilizing Binary Search Tree (BST) data structure for storing and managing contacts. This project allows users to add, search, update, and delete contacts, providing an efficient way to manage large sets of data.
 
